@@ -19,6 +19,10 @@
 <img src="https://i.ibb.co/qDm3KcP/image.png" width="800px">
 <img src="https://i.ibb.co/fNRHjp8/image.png" width="800px">
 <img src="https://i.ibb.co/C86rm1d/image.png" width="800px">
+<img src="https://i.ibb.co/88kMhNB/image.png" width="800px">
+<img src="https://i.ibb.co/JKg3Bwg/image.png" width="800px">
+<img src="https://i.ibb.co/BL6YV0K/image.png" width="800px">
+
 
 ### Разработчик
 

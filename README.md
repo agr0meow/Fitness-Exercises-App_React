@@ -15,10 +15,10 @@
 
 ## Изображения проекта
 
-<img src="https://i.ibb.co/Db4nsSS/image.png" width="800px">
-<img src="https://i.ibb.co/h7pD2H3/image.png" width="800px">
-<img src="https://i.ibb.co/YBJq6TM/image.png" width="800px">
-<img src="https://i.ibb.co/yX5VMWW/image.png" width="800px">
+<img src="https://i.ibb.co/w7jQp7J/image.png" width="800px">
+<img src="https://i.ibb.co/qDm3KcP/image.png" width="800px">
+<img src="https://i.ibb.co/fNRHjp8/image.png" width="800px">
+<img src="https://i.ibb.co/C86rm1d/image.png" width="800px">
 
 ### Разработчик
 
